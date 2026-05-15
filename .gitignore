@@ -1,0 +1,27 @@
+# Environment variables — NEVER commit API keys
+.env
+
+# Virtual environment — 200MB of packages, anyone can reinstall
+venv/
+.venv/
+
+# Generated Chroma database — created fresh per session
+chroma_db/
+
+# Python cache files — generated automatically, not source code
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# macOS system files — created automatically by macOS Finder
+.DS_Store
+
+# VS Code settings — editor-specific, not project-specific
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/

@@ -1,0 +1,11 @@
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-groq==0.1.9
+langchain-community==0.2.16
+langchain-text-splitters==0.2.4
+chromadb==0.5.5
+sentence-transformers==3.0.1
+streamlit==1.38.0
+pypdf==4.3.1
+python-dotenv==1.0.1
+numpy>=1.24.0
