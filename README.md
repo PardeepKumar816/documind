@@ -1,7 +1,7 @@
 # DocuMind 🧠
 ### Chat with any PDF using AI — 100% free, open source
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://docmind-pardeep.streamlit.app/)
 
 ## Demo
 ![DocuMind Demo](demo.gif)
